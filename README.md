@@ -1,2 +1,2 @@
-# ProgramaM1
-Proyecto para la asignatura de programacion movil 1
+# programacion 2
+Proyecto para la asignatura de programacion movil 2
